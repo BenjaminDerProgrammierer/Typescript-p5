@@ -1,3 +1,3 @@
-# typescript-p5-103
+# Typescript p5
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-p5-103)
+<p>Malen nach Zahlen mit HTML, Typescript und CSS nach der Idee von <a href ="https://coderdojo.com/">CoderDojo</a></p>
