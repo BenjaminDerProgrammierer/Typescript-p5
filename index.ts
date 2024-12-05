@@ -1,7 +1,7 @@
 // Import stylesheets
 import './style.css';
 // Importiere p5
-import p5 = require('p5');
+import p5 from 'p5';
 
 // Funktion Setup
 function setup(p: p5) {
